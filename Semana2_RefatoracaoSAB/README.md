@@ -27,5 +27,5 @@ Procure apresentar o código sempre bem apresentado, de acordo com boas prática
 <br/>
 A bateria de testes atual não pode ser modificada de forma alguma durante o Ciclo de Refatoração!
 <br/>
-![NFEcSSBnEeaDwg4FsnAbYw_b26af44e2bdb51bc058f745926672e62_Captura-de-Tela-2016-05-22-_s-18 49 43](https://user-images.githubusercontent.com/27317860/90324963-c5a9c400-df4b-11ea-9cdd-63443d94b6de.png)
+![NFEcSSBnEeaDwg4FsnAbYw_b26af44e2bdb51bc058f745926672e62_Captura-de-Tela-2016-05-22-_s-18 49 43](https://user-images.githubusercontent.com/27317860/90325010-77e18b80-df4c-11ea-801b-42c18d37e5f1.png)
 
